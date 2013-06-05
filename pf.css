@@ -1,0 +1,88 @@
+body
+{
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Arial, 'sans-serif';
+}
+
+
+.pf_form        { width: 180px; }
+.pf_form .set   { width: 100%; }
+
+.pf_form .pf_fs
+{
+    width: 100%;
+    border: none;
+    padding: 0;
+    font-size: 12px;
+}
+
+.pf_form input, .pf_form select
+{
+    border: 1px solid #aaa;
+    font-size: 12px;
+}
+
+.pf_form .pf_fs.right
+{
+ 
+}
+
+.pf_form .pf_fs > *
+{
+    clear: both;
+    width: 98%;
+    margin: 0 5px;
+    display: block;
+}
+
+.pf_form .pf_fs label { font-weight: bold; margin-bottom: 5px; }
+.pf_form .set   { border-bottom: 2px solid #eee; float: left; padding: 10px 0; }
+
+.pf_form .input-submit
+{
+    float: right;
+    cursor: pointer;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.pf_form .input-submit:hover,
+.pf_form .input-submit:focus
+{
+    background: #4169e1;
+    color: #fff;
+}
+
+.pf_form .clear
+{
+    clear: both;
+}
+
+.pf-job-results
+{
+    width: 650px;
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+
+
+.page
+{
+    border: 1px solid #eee;
+    display: block;
+    padding: 20px;
+    clear: both;
+    width: 650px;
+    margin: 20px 0;
+}
+
+.page p
+{
+    font-size: 13px;
+}
+
+.page fieldset
+{
+    border: 0;
+}
