@@ -38,28 +38,8 @@ Library ZIP pack contains:
 - minified version of the library
 - sample working html file with library implementation
 
+* * * * * * * * * * * * * * * * 
+Example
+* * * * * * * * * * * * * * * * 
 
-1. Configuration
-Attach the configuration to the <head> or <body> section of the page where you need to place the query form and where the results should be displayed.
-
-Example configuration:
-
-var pfConfig = {
-		"fields"	:	{   "positionCategory"	 :	{ "display" : true, "value" : "11,17,19", "reverse" : true },
-  		"employmentType"	   :	{ "display" : true, "value" : "", "reverse" : false  },
-		"location"			     :	{ "display" : true, "value" : "", "reverse" : false  },
-		"keywords"			     :  { "display" : true, "value" : "", "reverse" : false  },
-		"jobId" 			       :	{ "display" : true, "value" : "", "reverse" : false  }
-							    },
-							
-			uri		  	              :   "http://careers.peopleclick.com/careerscp/client_capita/int1067771348",
-      submitLabel             :   "Search vacancies",
-			resultsContainerId 			: 	"job-results",
-      redirectOnSubmit        :   false,
-			jobsPerPage 				    :	  10,
-			showHotJobs					    :	  0,
-      multipleChoice          :   true,
-			multipleChoiceListSize 	: 	5
-		}		
-
-2. 
+To see an example and details how to integrate the library please go to: http://peoplefluent.capitacreative.co.uk
