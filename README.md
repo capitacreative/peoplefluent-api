@@ -44,12 +44,12 @@ Attach the configuration to the <head> or <body> section of the page where you n
 
 Example configuration:
 
-		var pfConfig = {
-			"fields"	:	{   "positionCategory"	 :	{ "display" : true, "value" : "11,17,19", "reverse" : true },
-      								"employmentType"	   :	{ "display" : true, "value" : "", "reverse" : false  },
-								      "location"			     :	{ "display" : true, "value" : "", "reverse" : false  },
-								      "keywords"			     :  { "display" : true, "value" : "", "reverse" : false  },
-								      "jobId" 			       :	{ "display" : true, "value" : "", "reverse" : false  }
+var pfConfig = {
+		"fields"	:	{   "positionCategory"	 :	{ "display" : true, "value" : "11,17,19", "reverse" : true },
+  		"employmentType"	   :	{ "display" : true, "value" : "", "reverse" : false  },
+		"location"			     :	{ "display" : true, "value" : "", "reverse" : false  },
+		"keywords"			     :  { "display" : true, "value" : "", "reverse" : false  },
+		"jobId" 			       :	{ "display" : true, "value" : "", "reverse" : false  }
 							    },
 							
 			uri		  	              :   "http://careers.peopleclick.com/careerscp/client_capita/int1067771348",
