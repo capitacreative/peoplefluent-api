@@ -1,4 +1,3 @@
-
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * (c) 2013 Capita plc, Author: Grzegorz Wozniak (gregory.wozniak@capita.co.uk), London, United Kingdom
  * pf_api script is a property of Capita plc and is protected by international copyright laws.
