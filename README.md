@@ -8,6 +8,9 @@ For further information visit: http://pf.capitacreative.co.uk
 Instruction how to integrate the library with a website are included in repository and are placed on the website above.
 
 Changelog:
+  Version 1.2, 02/08/2013: Appending this on to the link sets the "Business Unit" search criteria (see "Business Unit" tab for countries and id's)
+&com.peopleclick.cp.formdata.FLD_JP_DEPARTMENT=XXX . It is not yet supported by a test servers of PF (given in example). Please use integer to declare business unit. The version without this function is also available in this repository.
+
   Version 1.1, 21/06/2013: Redirection to external page added    
 
 
