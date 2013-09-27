@@ -1,4 +1,3 @@
-
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * (c) 2013 Capita plc, Author: Grzegorz Wozniak (gregory.wozniak@capita.co.uk), London, United Kingdom
  * pf_api script is a property of Capita plc and is protected by international copyright laws.
@@ -77,30 +76,37 @@
 
 
         var positionCategoryOptions = {
-            "11" : "Administration",
-            "17" : "Education",
-            "19" : "Recruitment",
-            "20" : "Engineering",
-            "23" : "Finance and Accountancy",
-            "27" : "HR",
-            "28" : "Insurance",
-            "31" : "Legal",
-            "34" : "Marketing",
-            "39" : "Property",
-            "44" : "Sales/Marketing/PR",
-            "48" : "IT",
-            "60" : "Training",
-            "63" : "Customer service and contact centre",
-            "69" : "Healthcare",
-            "81" : "Office and Operations",
-            "93" : "Construction",
-            "94" : "Executive Appointments",
-            "95" : "Business Assurance",
-            "96" : "Change Management",
-            "97" : "Finance",
-            "98" : "Assessment & Selection",
-            "99" : "Career Centres"
+			11: "Administration",
+			14: "Consulting (Capita Employee Benefits)",	
+            17: "Education",
+            19: "Recruitment",
+            20: "Construction & Engineering",
+            23: "Finance, Risk & Business Assurance",
+            27: "HR",
+            28: "Insurance",
+            31: "Legal & Commercial",
+            34: "Marketing",
+            39: "Facilities & Property",
+            44: "Sales & Marketing",
+            48: "IT",
+            60: "Training",
+            63: "Customer service and contact centre",
+            69: "Medical & Healthcare",
+			72: "Actuarial",
+            81: "Administration & Office",
+            93: "Construction",
+            94: "Executive Appointments",
+            95: "Business Assurance",
+            96: "Change Management",
+            97: "Finance",
+            98: "Assessment & Selection",
+            99: "Career Centres",
+			100: "Print",
+			101: "Technical (Capita Employee Benefits)",
+			102: "Pensions Administration (Capita Employee Benefits)",
+			103: "Business Operations (Capita Employee Benefits)"
         }
+
 
 
         var workLocationOptions     = {
