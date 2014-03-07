@@ -2,10 +2,12 @@ capita-pf-library
 ================
 
 Javascript library that creates a search form and displays the results from PeopleFluent API as an iframe.
-version 1.0, 05/06/2013, gregory.wozniak@capita.co.uk
+version 1.3, 05/06/2013, gregory.wozniak@capita.co.uk
 
-For further information visit: http://pf.capitacreative.co.uk
-Instruction how to integrate the library with a website are included in repository and are placed on the website above.
+For further information visit: http://peoplefluent.capitacreative.co.uk
+Demo: http://pf.capitacreative.co.uk
+
+Instruction how to integrate the library with a website are included in repository and are placed on the website above. Please notice you can use a library only to create a URL string. 
 
 Changelog:
   Version 1.3: Updated indexing for categories and new categories added (requested by: David Phillips)
@@ -34,6 +36,8 @@ Capita Creative maintains *only* the latest version of the library.
 We can help you in integration but we are not performing an integration of this library on any projects.
 You can adjust the library specifically to the project requirements.
 
+Please notice that a bespoke "uri" should be requested when implementing the library. Please remember to modify businessUnit as well if necessary.
+
 * * * * * * * * * * * * * * * * 
 How to use capita-pf-library
 * * * * * * * * * * * * * * * * 
@@ -47,4 +51,4 @@ Library ZIP pack contains:
 Example
 * * * * * * * * * * * * * * * * 
 
-To see an example and details how to integrate the library please go to: http://peoplefluent.capitacreative.co.uk
+To see an example and details how to integrate the library please go to: http://pf.capitacreative.co.uk
