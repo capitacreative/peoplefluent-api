@@ -32,7 +32,8 @@ Integration
 * * * * * * * * * * * * * * * * 
 
 Being a web developer you need to integrate the library with your project by yourself. 
-Capita Creative maintains *only* the latest version of the library.
+Capita Creative maintains *only* the latest version of the library. Please visit our microsite (link in Example) to learn more.
+
 We can help you in integration but we are not performing an integration of this library on any projects.
 You can adjust the library specifically to the project requirements.
 
