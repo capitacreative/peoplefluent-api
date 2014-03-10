@@ -10,6 +10,9 @@ Demo: http://pf.capitacreative.co.uk
 Instruction how to integrate the library with a website are included in repository and are placed on the website above. Please notice you can use a library only to create a URL string. 
 
 Changelog:
+ 
+  Version 1.3.1: Link updated in example. Currently we will be using http://careers.peopleclick.com/careerscp/client_capita/client_microsite/search.do?functionName=search for the purpose of this library.
+
   Version 1.3: Updated indexing for categories and new categories added (requested by: David Phillips)
 
   Version 1.2, 02/08/2013: Added "Business Unit" search criteria (see "Business Unit" tab for countries and id's in XLS)
