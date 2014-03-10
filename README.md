@@ -11,7 +11,7 @@ Instruction how to integrate the library with a website are included in reposito
 
 Changelog:
  
-  Version 1.3.1: Link updated in example. Currently we will be using http://careers.peopleclick.com/careerscp/client_capita/client_microsite/search.do?functionName=search for the purpose of this library.
+  Version 1.3.1: Gateway (API) link updated in example.html. Currently we will be using following API link http://careers.peopleclick.com/careerscp/client_capita/client_microsite/search.do?functionName=search for the purpose of this library.
 
   Version 1.3: Updated indexing for categories and new categories added (requested by: David Phillips)
 
